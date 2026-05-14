@@ -5,3 +5,4 @@
 therealaleph/MasterHttpRelayVPN-RUST
 MaxiFan/TunnelX
 hiddify/hiddify-app
+shirokhorshid/shirokhorshid-android
