@@ -4,5 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 therealaleph/MasterHttpRelayVPN-RUST
 MaxiFan/TunnelX
-hiddify/hiddify-app
-shirokhorshid/shirokhorshid-android
+T2HASH/DPISCANING-T2HASH
