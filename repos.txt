@@ -5,4 +5,4 @@
 therealaleph/MasterHttpRelayVPN-RUST
 MaxiFan/TunnelX
 T2HASH/DPISCANING-T2HASH
-IRNova/Nova-Proxy-App
+IRNova/NovaRadar
