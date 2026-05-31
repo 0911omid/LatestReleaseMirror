@@ -169,6 +169,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="irnova--novaradar"></div>
+
+### IRNova--NovaRadar
+
+🔗 [source](https://github.com/IRNova/NovaRadar) – [<code><small>V0.0.1Beta</small></code>](https://github.com/IRNova/NovaRadar/releases/tag/V0.0.1Beta)
+
+| File | Size | Download |
+|------|------|----------|
+| `NovaRadar.exe` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/0911omid/LatestReleaseMirror/main/releases/IRNova/NovaRadar/NovaRadar.exe) |
+
+---
+
 <div id="maxifan--tunnelx"></div>
 
 ### MaxiFan--TunnelX
